@@ -1,17 +1,18 @@
 # Hi, I'm Suho Park 👋
 
-Backend developer
-<div>
 <a style="float:right" href="https://solved.ac/grand7070">
 	<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=grand7070">
 </a>
+Backend Developer
 
 <h3>Career</h3>
-Hanyang University, Department of Computer Software (2017.03 ~ )
+<div>
+- Hanyang University, Department of Computer Software (2017.03 ~ )
 <br>
-Google Develpoer Student Club Hanyang, Member (2021.08 ~ )
+- Google Develpoer Student Club Hanyang, Member (2021.08 ~ )
 <br>
-Project [Too-Good-To-Go], Backend (2021.09 ~ )
+- Project [Too-Good-To-Go], Backend (2021.09 ~ )
+</div>
 
 <h3>Skills</h3>
 <div>
