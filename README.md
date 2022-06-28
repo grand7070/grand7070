@@ -14,6 +14,12 @@ Backend Developer
 - Project [Too-Good-To-Go], Backend (2021.09 ~ )
 <br>
 - Project [Hada/Pins], Backend (2022.01 ~ )
+<br>
+- Project [Daedongbread], Backend (2022.03 ~ )
+<br>
+- Depromeet, Project [Moodpic], Backend (2022.03 ~ )
+<br>
+- NICE Information Service, Intern (2022.06 ~ )
 </div>
 
 <h3>Skills</h3>
