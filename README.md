@@ -9,17 +9,22 @@ Backend Developer
 <div>
 - Hanyang University, Department of Computer Software (2017.03 ~ )
 <br>
+- Depromeet, 11th (2022.03 ~ 2022.07)
+<br>
+- Cloud Club, 1th (2022.03 ~ )
+<br>
+- AUSG, 6th (2022.07 ~ )
+</div>
+<h3>Projects</h3>
 - Google Develpoer Student Club Hanyang, Member (2021.08 ~ )
 <br>
-- Project [Too-Good-To-Go], Backend (2021.09 ~ )
+- Project [Too-Good-To-Go], Backend (2021.09 ~ 2022.03)
 <br>
 - Project [Hada/Pins], Backend (2022.01 ~ )
 <br>
 - Project [Daedongbread], Backend (2022.03 ~ )
 <br>
-- Depromeet, Project [Moodpic], Backend (2022.03 ~ )
-<br>
-- NICE Information Service, Intern (2022.06 ~ )
+- Depromeet, Project [Moodpic], Backend (2022.03 ~ 2022.07)
 </div>
 
 <h3>Skills</h3>
