@@ -3,24 +3,25 @@
 <a style="float:right" href="https://solved.ac/grand7070">
 	<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=grand7070">
 </a>
-Backend Developer
+Backend Developer / DevOps Enginner
 
 <h3>Career</h3>
 <div>
+- Kakao Enterprise, AIaaS AI Service, Backend Intern(2022.08.30 ~ )
+<br>
 - Hanyang University, Department of Computer Software (2017.03 ~ )
+<br>
+- Cloud Club, 1st,2nd (2022.03 ~ )
+<br>
+- AUSG, 6th (2022.07 ~ )
+<br>
+- Google Develpoer Student Club Hanyang, 2nd Core Member (2022.08 ~ )
 <br>
 - Depromeet, 11th (2022.03 ~ 2022.07)
 <br>
-- Cloud Club, 1th (2022.03 ~ )
-<br>
-- AUSG, 6th (2022.07 ~ )
 </div>
 <h3>Projects</h3>
-- Google Develpoer Student Club Hanyang, Member (2021.08 ~ )
-<br>
 - Project [Too-Good-To-Go], Backend (2021.09 ~ 2022.03)
-<br>
-- Project [Hada/Pins], Backend (2022.01 ~ )
 <br>
 - Project [Daedongbread], Backend (2022.03 ~ )
 <br>
