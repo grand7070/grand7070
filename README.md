@@ -7,11 +7,11 @@ Backend Developer / DevOps Enginner
 
 <h3>Career</h3>
 <div>
-- Kakao Enterprise, AIaaS AI Service, Backend Intern(2022.08.30 ~ )
+- Kakao Enterprise, AIaaS AI Service, Backend Intern(2022.08.30 ~ 2023.02.28)
 <br>
 - Hanyang University, Department of Computer Software (2017.03 ~ )
 <br>
-- Cloud Club, 1st,2nd (2022.03 ~ )
+- Cloud Club, 1st,2nd,3rd (2022.03 ~ )
 <br>
 - AUSG, 6th (2022.07 ~ )
 <br>
@@ -21,7 +21,7 @@ Backend Developer / DevOps Enginner
 <br>
 </div>
 <h3>Projects</h3>
-- Project [Too-Good-To-Go], Backend (2021.09 ~ 2022.03)
+- Project [BibubExchange], Backend (2022.11 ~ )
 <br>
 - Project [Daedongbread], Backend (2022.03 ~ )
 <br>
