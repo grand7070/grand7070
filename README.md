@@ -15,7 +15,7 @@ Backend Developer / DevOps Enginner
 <br>
 - AUSG, 6th (2022.07 ~ )
 <br>
-- Google Develpoer Student Club Hanyang, 2nd Core Member (2022.08 ~ )
+- Google Develpoer Student Club Hanyang, 2nd Core Member (2022.08 ~ 2023.07)
 <br>
 - Depromeet, 11th (2022.03 ~ 2022.07)
 <br>
