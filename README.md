@@ -11,7 +11,7 @@ Backend Developer / DevOps Enginner
 <br>
 - Hanyang University, Department of Computer Software (2017.03 ~ )
 <br>
-- Cloud Club, 1st,2nd,3rd (2022.03 ~ )
+- Cloud Club, 1st~4th (2022.03 ~ )
 <br>
 - AUSG, 6th (2022.07 ~ )
 <br>
@@ -20,12 +20,17 @@ Backend Developer / DevOps Enginner
 - Depromeet, 11th (2022.03 ~ 2022.07)
 <br>
 </div>
+
 <h3>Projects</h3>
 - Project [BibubExchange], Backend (2022.11 ~ )
 <br>
 - Project [Daedongbread], Backend (2022.03 ~ )
 <br>
 - Depromeet, Project [Moodpic], Backend (2022.03 ~ 2022.07)
+</div>
+
+<h3>Certificates</h3>
+- AWS Certified: Solutions Architect Associate (2023.08.31) | [Badge](https://www.credly.com/earner/earned/badge/61ed4987-4064-45ec-ab8c-1af758d8d2a8)
 </div>
 
 <h3>Skills</h3>
