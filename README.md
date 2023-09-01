@@ -30,7 +30,7 @@ Backend Developer / DevOps Enginner
 </div>
 
 <h3>Certificates</h3>
-- AWS Certified: Solutions Architect Associate (2023.08.31) | [Badge](https://www.credly.com/earner/earned/badge/61ed4987-4064-45ec-ab8c-1af758d8d2a8)
+- AWS Certified: Solutions Architect Associate (2023.08.31)
 </div>
 
 <h3>Skills</h3>
