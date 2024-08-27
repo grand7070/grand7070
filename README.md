@@ -3,15 +3,20 @@
 <a style="float:right" href="https://solved.ac/grand7070">
 	<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=grand7070">
 </a>
-Backend Developer / DevOps Enginner
+<h3>Interested in..</h3>
+Backend / DevOps / SRE / Platform Engineer
 
 <h3>Career</h3>
 <div>
-- Kakao Enterprise, AIaaS AI Service, Backend Intern(2022.08.30 ~ 2023.02.28)
+- NH Investment & Securities, IT (2024.09.02 ~ )
+<br>
+- kt cloud corp, ContainerTF, Manager (2024.01.08 ~ 2024.06.19)
+<br>
+- Kakao Enterprise, AIaaS AI Service, Backend Intern (2022.08.30 ~ 2023.02.28)
 <br>
 - Hanyang University, Department of Computer Software (2017.03 ~ )
 <br>
-- Cloud Club, 1st~4th (2022.03 ~ )
+- Cloud Club, 1st ~ 4th, 6th (2022.03 ~ )
 <br>
 - AUSG, 6th (2022.07 ~ )
 <br>
@@ -22,9 +27,9 @@ Backend Developer / DevOps Enginner
 </div>
 
 <h3>Projects</h3>
-- Project [BibubExchange], Backend (2022.11 ~ )
+- Project [BibubExchange], Backend (2022.11 ~ 2024.07)
 <br>
-- Project [Daedongbread], Backend (2022.03 ~ )
+- Project [Daedongbread], Backend (2022.03 ~ 2024.06)
 <br>
 - Depromeet, Project [Moodpic], Backend (2022.03 ~ 2022.07)
 </div>
